@@ -1,0 +1,4 @@
+!.keep
+/var/cache/
+/var/logs/
+vendor
